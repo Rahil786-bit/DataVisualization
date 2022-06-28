@@ -4,4 +4,6 @@ one Sample data has been also attached to the project
 for example if you successfully run the server 
 then upload the file and put the attribute id as Qualification.
 then you can see the chart based on the data.
+Also you can change the chart type in report.html file where type is currently doughnut.
+
 
