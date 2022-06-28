@@ -1,0 +1,7 @@
+This is the project for Uploading one csv and display the data column on a chart (doughnut).
+
+one Sample data has been also attached to the project
+for example if you successfully run the server 
+then upload the file and put the attribute id as Qualification.
+then you can see the data.
+
